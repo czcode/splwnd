@@ -1,0 +1,10 @@
+/* main.css */
+div.dark {
+	color: #eee; 
+	background-color: #333; 
+}
+
+div.light {
+	color: #333;
+	background-color: #eee; 
+}
