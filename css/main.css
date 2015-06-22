@@ -2,6 +2,7 @@
 div.dark {
 	color: #eee; 
 	background-color: #333; 
+	text-align: center; 
 }
 
 div.light {
